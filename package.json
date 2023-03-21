@@ -1,0 +1,16 @@
+{
+ "name": "nodek-image-demo",
+ "version": "1.0.0",
+ "description": "nodejs image demo",
+ "author" : "alurod8296@ieselcaminas.org",
+ "license": "MIT",
+ "main": "app.js",
+ "keywords": [
+     "nodeks",
+     "bootstrap",
+     "express"
+ ],
+ "dependencies": {
+     "express": "4.18.2"
+ }
+}
